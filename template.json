@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "input_variables": [
+        "category_input",
+        "player_input"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": " \n    Tell me about '{player_input}' in terms of '{category_input}'\n    ",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
