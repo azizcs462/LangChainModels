@@ -25,4 +25,6 @@ requests>=2.32.0
 
 # Optional: for async API calls
 aiohttp>=3.9.0
+langchain_huggingface
+sentence-transformers
 
